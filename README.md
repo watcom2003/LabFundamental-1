@@ -8,6 +8,6 @@
 1. [แบบฝึกหัด Excel](https://faculty.fuqua.duke.edu/~pecklund/ExcelReview/BasicsPractice.xls)
 1. [ไฟล์ lab2](https://github.com/watcom2003/LabFundamental-1/blob/master/files/lab2.xlsx)
 1. [แบบเรียนเรื่อง PowerPoint](https://www.dit.ie/media/ittraining/msoffice/MOAC_Powerpoint_2016.pdf) 
-  1.1 [backup Link](https://drive.google.com/file/d/1ePmVoUupjJiA6k-0UjYGnDk8FQ7vVpQE/view?usp=sharing)
+  - [backup Link](https://drive.google.com/file/d/1ePmVoUupjJiA6k-0UjYGnDk8FQ7vVpQE/view?usp=sharing)
 1. [MOS 2016 Study Guide and Practices: PowerPoint](https://www.lee.k12.nc.us/cms/lib/NC01001912/Centricity/Domain/850/MOS_2016_Study_Guide_Microsoft_PowerPoint.pdf) 
-1.1 [Backup Link](https://drive.google.com/file/d/1nH4f_Txr-_sXzs1EtUqqgrmgJ-y_odVI/view?usp=sharing)
+  - [Backup Link](https://drive.google.com/file/d/1nH4f_Txr-_sXzs1EtUqqgrmgJ-y_odVI/view?usp=sharing)
