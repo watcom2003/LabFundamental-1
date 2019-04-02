@@ -18,4 +18,4 @@
       - เสริมความน่าสนใจด้วย Word Art / Graph	5 คะแนน
       - จัดทำ VDO นำเสนออัตโมมัติ ประกอบเสียงได้ 	5 คะแนน
       - [การใส่เสียงบรรยายภาษาอังกฤษ](https://www.naturalreaders.com/online/?action=upload)
- 1. [ไฟล์ตัวอย่าง Powerpoint]( )
+
