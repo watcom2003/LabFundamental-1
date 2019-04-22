@@ -11,7 +11,7 @@
    - [Backup Link](https://drive.google.com/file/d/1ePmVoUupjJiA6k-0UjYGnDk8FQ7vVpQE/view?usp=sharing)
 1. [MOS 2016 Study Guide and Practices: PowerPoint](https://www.lee.k12.nc.us/cms/lib/NC01001912/Centricity/Domain/850/MOS_2016_Study_Guide_Microsoft_PowerPoint.pdf) 
    - [Backup Link](https://drive.google.com/file/d/1nH4f_Txr-_sXzs1EtUqqgrmgJ-y_odVI/view?usp=sharing)
-1. [ข้อมูลเบื้องต้นสำหรับสอบ PowerPoint](https://www.seub.or.th/bloging/%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B9%8C/%E0%B8%9C%E0%B8%A5%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%9A%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%AA%E0%B8%B4%E0%B9%88/)
+1. [ข้อมูลเบื้องต้นสำหรับสอบ PowerPoint: เรื่องผลกระทบจากการใช้สารเคมีทางการเกษตรของประเทศไทย](http://library.senate.go.th/document/Ext6409/6409657_0002.PDF)
    - การให้คะแนน PowerPoint
       - เนื้อหาครบถ้วน		5 คะแนน
       - รูปแบบสวยงาม		5 คะแนน
