@@ -18,4 +18,9 @@
       - เสริมความน่าสนใจด้วย Word Art / Graph	5 คะแนน
       - จัดทำ VDO นำเสนออัตโมมัติ ประกอบเสียงได้ 	5 คะแนน
       - [การใส่เสียงบรรยายภาษาอังกฤษ](https://www.naturalreaders.com/online/?action=upload)
+1. Google Docs - จงสร้างเอกสารโดยใช้ Template แบบ Class Notes / Playful เพื่ออธิบายรายละเอียดการมาสอบในวันนี้
+1. Google Sheets - จงสร้างเอกสารบันทึกรายรับ รายจ่ายอย่างง่าย ๆ โดยใช้ Template แบบ Monthly Budget
+1. Google Slides - จงสร้างใบรับรองคุณวุฒิ โดยใช้ Templage แบบ Employee Certificate เพื่อออกใบรับรองการเรียนวิชาพื้นฐานคอมพิวเตอร์
+1. Internet - จงค้นหาข้อมูลด้วย Google Search Engine เกี่ยวกับพระราชพิธีบรมราชาภิเษก จากแหล่งข้อมูล 5 แหล่ง โดยระบุเป็น URLs 
 
+*** ส่ง URLs Google Docs / Google Sheets / Google Slides และ ข้อมูลที่ค้นหาจาก Internet มาทาง Email
